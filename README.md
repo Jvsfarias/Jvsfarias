@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, iam João Victor and that's my profile! I hope you like it 👋
 
 - 🔭 I’m currently NOT working, although iam studying a lot! 
 - 🌱 I’m currently learning HMTL, CSS and JS
