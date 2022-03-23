@@ -9,3 +9,6 @@
 - 😄 Pronouns: ... / building...
 - ⚡ Fun fact: ... / I loove piano!
 
+<div>
+  <a href="silva.farias@academico.ifpb.edu.br"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" > </a>
+</div>
