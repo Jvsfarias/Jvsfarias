@@ -3,7 +3,7 @@
 - 🔭 I’m currently NOT working, although iam studying a lot! 
 - 🌱 I’m currently learning HMTL, CSS and JS
 - 📫 How to reach me: ... / by email!
-- ⚡ Facts about me: ... / I loove piano and sports!
+- ⚡ Facts about me: ... / I love piano and sports!
 
 <div>
   <a href="mailto:jvsdf@outlook.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
