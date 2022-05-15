@@ -1,7 +1,7 @@
 ### Hi, iam João Victor and that's my profile! Hope you like it 👋
 
 - 🔭 I’m currently NOT working, although iam studying a lot! 
-- 🌱 I’m currently learning HMTL, CSS and JS
+- 🌱 I’m currently learning JS
 - 📫 How to reach me: ... / by email!
 - ⚡ Facts about me: ... / I love to play piano and sports!
 
