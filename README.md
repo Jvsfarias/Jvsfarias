@@ -1,7 +1,6 @@
 ### Hi, iam João Victor and that's my profile! Hope you like it 👋
 
-- 🔭 I’m currently NOT working, although iam studying a lot! 
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working at Signove! 
 - 📫 How to reach me: ... / by email!
 - ⚡ Facts about me: ... / I love to play piano!
 
