@@ -45,7 +45,7 @@
 ## 💼 Experience
 
 ### FullStack JavaScript Developer — Axia Futures
-**Nov 2025 — 2026**
+**Nov 2025 — Aug 2026**
 
 - Developed applications using **React, Node.js, TypeScript and Electron.js**
 - Built a platform to centralize and automate manual broadcasting processes
