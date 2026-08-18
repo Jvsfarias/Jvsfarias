@@ -37,7 +37,6 @@
   <img align="center" alt="C++" height="40" width="50" src="https://skillicons.dev/icons?i=cpp">
   <img align="center" alt="Python" height="40" width="50" src="https://skillicons.dev/icons?i=python">
   <img align="center" alt="Arduino" height="40" width="50" src="https://skillicons.dev/icons?i=arduino">
-  <img align="center" alt="AWS" height="40" width="50" src="https://skillicons.dev/icons?i=aws">
 </div>
 
 ---
